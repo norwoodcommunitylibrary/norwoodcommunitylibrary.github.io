@@ -8,7 +8,7 @@ Brandon Montes, maintained (for now) by Justine.
 
 ## How to Use
 
-[ajustinej.github.io](https://ajustinej.github.io)
+[norwoodcommunitylibrary.github.io](https://norwoodcommunitylibrary.github.io)
 
 To run locally:
 - Launch wsl
@@ -20,3 +20,4 @@ Deployment is simply pushing to main. Can deploy from a branch instead under Set
 ## Debugging Tips
 
 - delete cache for the website
+- ssh-agent bash -c 'ssh-add ~/.ssh/id_rsa_ncl; git push'
