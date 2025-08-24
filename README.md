@@ -1,17 +1,10 @@
-# ajustinej.github.io
+# norwoodcommunitylibrary.github.io
 
 ## Purpose
 
-This is my personal website. Temporary while trying to get access to my
-original Github account. I'm going to be writing about various things I do
-such as:
-- projects I've done
-- Resume
-- What kind of opportunities I'm looking for
-- Music stuff?
-- Crafts stuff?
-- Book reviews?
-
+This is the simple static page for the Norwood Community Library, in order to
+link to other pages or to share some resources in a central location. Owned by
+Brandon Montes, maintained (for now) by Justine.
 
 ## How to Use
 
@@ -19,7 +12,7 @@ such as:
 
 To run locally:
 - Launch wsl
-- `cd /mnt/wsl/ajustinej.github.io`
+- `cd /mnt/wsl/norwoodcommunitylibrary.github.io`
 - `bundle exec jekyll serve`
 
 Deployment is simply pushing to main. Can deploy from a branch instead under Settings > Pages > Build and deployment

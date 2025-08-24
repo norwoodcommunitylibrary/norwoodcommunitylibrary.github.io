@@ -1,8 +1,8 @@
 - name: Home
   link: /
-- name: Dogs
-  link: /dogs.html
 - name: Activism
   link: /activism.html
-- name: How You Can Help
+- name: Help
   link: /help.html
+- name: About
+  link: /about.html
