@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Dogs
+  link: /dogs.html
+- name: Activism
+  link: /activism.html
+- name: How You Can Help
+  link: /help.html
